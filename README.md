@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: ...
 -->
+
+```js
+const ericReyes = {
+    databses: [Oracle, PostgreSQL],
+    techs: [JavaScript, Java, SQL, PL/SQL],
+    containers: docker
+}
+```
