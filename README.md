@@ -1,3 +1,22 @@
+[![ENG](https://img.shields.io/badge/English-ENG-blue)](#english) [![ESP](https://img.shields.io/badge/Español-ESP-red)](#español)
+
+---
+
+<details>
+<summary>English / ENG</summary>
+
+### English <a name="english"></a>
+
+Welcome to my profile!  
+Here is some English content. You can link to other resources, projects, or sections in English.
+
+</details>
+
+<details>
+<summary>Español / SPA</summary>
+
+### Español <a name="español"></a>
+
 # ¡Hola! Soy Eric Reyes 👋
 ## Principal Software Developer
 
@@ -11,7 +30,7 @@
 
 ### 🚀 Acerca de mí
 
-Soy un **Principal Software Developer** con más de 16 años de experiencia especializándome en el diseño, desarrollo y optimización de sistemas backend empresariales de alta disponibilidad. Mi[...]
+Soy un **Profesional** con más de 16 años de experiencia especializándome en el diseño, desarrollo y optimización de sistemas backend empresariales de alta disponibilidad. Mi[...]
 
 *   **Backend Core:** Diseño de microservicios escalables utilizando **Spring Boot**, garantizando transacciones seguras, arquitecturas distribuidas y APIs altamente eficientes.
 *   **Database Engineering:** Experto en tuning de consultas complejas, modelado de datos de misión crítica, administración avanzada en **Oracle DB** y **PostgreSQL**, y desarrollo ágil con **[...]
@@ -29,9 +48,17 @@ Soy un **Principal Software Developer** con más de 16 años de experiencia espe
 ![https://www.redhat.com/es/topics/api/what-is-a-rest-api](https://img.shields.io/badge/RestAPI-009688?style=for-the-badge&logo=api&logoColor=white)
 
 #### 🗄️ Database Engineering
-![https://www.oracle.com/database/](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![https://www.postgresql.org/](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![https://www.oracle.com/apex/](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+<p align="left">
+  <a href="https://www.oracle.com" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.oracle.com/apex/" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="cccccccc" />
+  </a>
+</p>
 
 #### 🌐 Frontend Development
 ![https://developer.mozilla.org/es/docs/Web/JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -101,4 +128,4 @@ Si deseas discutir sobre arquitectura de software, sintonización de bases de da
 *   📧 **Email:** [eric.reyesdr@gmail.com](mailto:eric.reyesdr@gmail.com)
 *   📱 **Teléfono:** [+52 55-5458-2337](https://wa.me/525554582337)
 
-<p align="right">(<a href="#top">Volver arriba</a>)</p>
+</details>
