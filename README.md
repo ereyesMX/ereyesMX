@@ -10,6 +10,8 @@
 Welcome to my profile!  
 Here is some English content. You can link to other resources, projects, or sections in English.
 
+![Descripción](https://raw.githubusercontent.com/tu-usuario/tu-usuario/main/nombre-archivo.png)
+
 </details>
 
 <details>
