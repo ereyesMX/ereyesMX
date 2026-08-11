@@ -1,0 +1,14 @@
+/* Estilos mínimos para el scaffold del profile */
+:root{
+  --bg:#ffffff;
+  --fg:#111827;
+  --accent:#1f6feb;
+}
+*{box-sizing:border-box}
+body{font-family:system-ui,Segoe UI,Roboto,-apple-system,"Helvetica Neue",Arial;margin:0;color:var(--fg);background:var(--bg)}
+.container{max-width:960px;margin:2rem auto;padding:0 1rem}
+.site-header{display:flex;align-items:center;justify-content:space-between;padding:1rem 0}
+.logo{height:48px}
+nav a{margin-left:1rem;color:var(--accent);text-decoration:none}
+.hero img{width:100%;height:auto;border-radius:8px}
+footer{padding:2rem 0;text-align:center;color:#6b7280}
