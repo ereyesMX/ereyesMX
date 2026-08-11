@@ -1,11 +1,11 @@
-[![ENG](https://img.shields.io/badge/English-ENG-blue)](#english) [![ESP](https://img.shields.io/badge/Español-ESP-red)](#español)
+[![ENG](https://img.shields.io/badge/English-ENG-blue)](#english-eng) [![ESP](https://img.shields.io/badge/Español-ESP-red)](#español-spa)
 
 ---
 
 <details>
 <summary>English / ENG</summary>
 
-### English <a name="english"></a>
+### English <a name="english-eng"></a>
 
 
 ![hello-banner](https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/images/hello-banner.png)
@@ -17,7 +17,7 @@
 <details>
 <summary>Español / SPA</summary>
 
-### Español <a name="español"></a>
+### Español <a name="español-spa"></a>
 
 # ¡Hola! Soy Eric Reyes 👋
 ## Principal Software Developer
@@ -35,7 +35,7 @@
 Soy un **Profesional** con más de 16 años de experiencia especializándome en el diseño, desarrollo y optimización de sistemas backend empresariales de alta disponibilidad. Mi[...]
 
 *   **Backend Core:** Diseño de microservicios escalables utilizando **Spring Boot**, garantizando transacciones seguras, arquitecturas distribuidas y APIs altamente eficientes.
-*   **Database Engineering:** Experto en tuning de consultas complejas, modelado de datos de misión crítica, administración avanzada en **Oracle DB** y **PostgreSQL**, y desarrollo ágil con **[...]
+*   **Database Engineering:** Experto en tuning de consultas complejas, modelado de datos de misión crítica, administración avanzada en **Oracle DB** y **PostgreSQL**, y desarrollo ágil con **[...]*
 *   **Cloud & DevOps:** Migración y despliegue de infraestructuras empresariales aprovechando soluciones nativas de la nube en **AWS** y **OCI**, automatizadas mediante contenedores **Docker**.
 
 ---
