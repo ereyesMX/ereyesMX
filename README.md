@@ -1,18 +1,5 @@
-<details open>
-<summary><strong>🇬🇧 English</strong></summary>
-
-### English
-
-![hello-banner](https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/images/hello-banner.png)
-
-![Descripción](https://raw.githubusercontent.com/tu-usuario/tu-usuario/main/nombre-archivo.png)
-
-</details>
-
 <details>
 <summary><strong>🇪🇸 Español</strong></summary>
-
-### Español
 
 # ¡Hola! Soy Eric Reyes 👋
 ## Principal Software Developer
@@ -124,5 +111,12 @@ Si deseas discutir sobre arquitectura de software, sintonización de bases de da
 *   💼 **LinkedIn:** [@ingericalbertorr](https://www.linkedin.com/in/ingericalbertorr/)
 *   📧 **Email:** [eric.reyesdr@gmail.com](mailto:eric.reyesdr@gmail.com)
 *   📱 **Teléfono:** [+52 55-5458-2337](https://wa.me/525554582337)
+
+</details>
+
+<details open>
+<summary><strong>🇬🇧 English</strong></summary>
+
+![hello-banner](https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/images/hello-banner.png)
 
 </details>
