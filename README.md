@@ -7,8 +7,8 @@
 
 ### English <a name="english"></a>
 
-Welcome to my profile!  
-Here is some English content. You can link to other resources, projects, or sections in English.
+
+![hello-banner](https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/images/hello-banner.png)
 
 </details>
 
