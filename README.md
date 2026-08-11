@@ -1,24 +1,18 @@
-<input type="checkbox" id="english-tab" class="lang-tab" />
-<input type="checkbox" id="spanish-tab" class="lang-tab" />
+<details open>
+<summary><strong>🇬🇧 English</strong></summary>
 
-<label for="english-tab">[![ENG](https://img.shields.io/badge/English-ENG-blue)](#english-tab)</label>
-<label for="spanish-tab">[![ESP](https://img.shields.io/badge/Español-ESP-red)](#spanish-tab)</label>
-
----
-
-<div id="english-tab" class="language-section">
-
-### English <a name="english"></a>
+### English
 
 ![hello-banner](https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/images/hello-banner.png)
 
 ![Descripción](https://raw.githubusercontent.com/tu-usuario/tu-usuario/main/nombre-archivo.png)
 
-</div>
+</details>
 
-<div id="spanish-tab" class="language-section">
+<details>
+<summary><strong>🇪🇸 Español</strong></summary>
 
-### Español <a name="español"></a>
+### Español
 
 # ¡Hola! Soy Eric Reyes 👋
 ## Principal Software Developer
@@ -131,42 +125,4 @@ Si deseas discutir sobre arquitectura de software, sintonización de bases de da
 *   📧 **Email:** [eric.reyesdr@gmail.com](mailto:eric.reyesdr@gmail.com)
 *   📱 **Teléfono:** [+52 55-5458-2337](https://wa.me/525554582337)
 
-</div>
-
-<style>
-.lang-tab {
-  display: none;
-}
-
-.language-section {
-  display: none;
-}
-
-#english-tab:checked ~ #english-tab {
-  display: block;
-}
-
-#spanish-tab:checked ~ #spanish-tab {
-  display: block;
-}
-
-#english-tab:checked ~ .language-section:nth-of-type(1) {
-  display: block;
-}
-
-#spanish-tab:checked ~ .language-section:nth-of-type(2) {
-  display: block;
-}
-
-label {
-  cursor: pointer;
-  padding: 8px 12px;
-  margin: 0 4px;
-  border-radius: 4px;
-  transition: background-color 0.2s;
-}
-
-label:hover {
-  opacity: 0.8;
-}
-</style>
+</details>
