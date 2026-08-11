@@ -1,4 +1,4 @@
-<details open style="border: 2px solid #2ecc71; border-radius: 8px; padding: 12px; background-color: rgba(46, 204, 113, 0.05);">
+<details style="border: 2px solid #2ecc71; border-radius: 8px; padding: 12px; background-color: rgba(46, 204, 113, 0.05);">
 <summary style="cursor: pointer; font-size: 16px; font-weight: 600; color: #2ecc71; user-select: none;">
   <span style="display: inline-block; margin-right: 8px;">🇲🇽</span>Español
 </summary>
@@ -8,11 +8,7 @@
 # ¡Hola! Soy Eric Reyes 👋
 ## Principal Software Developer
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ingericalbertorr/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+
 
 ---
 
@@ -129,16 +125,10 @@ Si deseas discutir sobre arquitectura de software, sintonización de bases de da
 
 <div style="margin-top: 12px;">
 
-![hello-banner](https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/images/hello-banner.png)
-
 # Hello! I'm Eric Reyes 👋
 ## Principal Software Developer
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ingericalbertorr/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+![hello-banner](https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/images/hello-banner.png)
 
 ---
 
@@ -236,7 +226,7 @@ Leveraging modern GitHub features, the following metrics adapt dynamically based
 
 If you want to discuss software architecture, enterprise database tuning, or new professional opportunities, feel free to contact me:
 
-*   💼 **LinkedIn:** [@ingericalbertorr](https://www.linkedin.com/in/ingericalbertorr/)
+*   💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ingericalbertorr/)
 *   📧 **Email:** [eric.reyesdr@gmail.com](mailto:eric.reyesdr@gmail.com)
 *   📱 **Phone:** [+52 55-5458-2337](https://wa.me/525554582337)
 
