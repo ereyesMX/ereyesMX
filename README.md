@@ -1,10 +1,9 @@
 # ¡Hola! Soy Eric Reyes 👋
-## Senior Java Backend Developer & Senior Database Developer
+## Senior Database Developer & Senior Java Backend Developer
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   <a href="https://www.linkedin.com/in/ingericalbertorr/" target="_blank">
-    <!--<img src="https://img.shields.io/badge/Ver_Mi_LinkedIn-Click_Aquí-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Perfil" /> -->
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
