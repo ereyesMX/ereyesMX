@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   <a href="https://www.linkedin.com/in/ingericalbertorr/" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Mi_LinkedIn-Click_Aquí-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Perfil" />
+    <!--<img src="https://img.shields.io/badge/Ver_Mi_LinkedIn-Click_Aquí-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Perfil" /> -->
   </a>
 </p>
 
@@ -17,18 +17,6 @@ Soy un **Ingeniero de Software Senior** con más de 16 años de experiencia espe
 *   **Backend Core:** Diseño de microservicios escalables utilizando **Spring Boot**, garantizando transacciones seguras, arquitecturas distribuidas y APIs altamente eficientes.
 *   **Database Engineering:** Experto en tuning de consultas complejas, modelado de datos de misión crítica, administración avanzada en **Oracle DB** y **PostgreSQL**, y desarrollo ágil con **Oracle APEX**.
 *   **Cloud & DevOps:** Migración y despliegue de infraestructuras empresariales aprovechando soluciones nativas de la nube en **AWS** y **OCI**, automatizadas mediante contenedores **Docker**.
-
----
-
-### 🎨 Selector de Tema (Apariencia del Perfil)
-
-GitHub permite renderizar imágenes de forma adaptativa según el tema del usuario (Claro u Oscuro). Los componentes interactivos y estadísticas de este perfil cambiarán automáticamente para ofrecer la mejor experiencia visual:
-
-#### 🌒 Vista Tema Oscuro (Recomendado)
-Para optimizar las tarjetas estadísticas en modo oscuro, se inyectan variables adaptativas `#0d1117` nativas de GitHub que mitigan la fatiga visual del reclutador.
-
-#### ☀️ Vista Tema Claro
-Las insignias de tecnologías y los gráficos de rendimiento alternan sus contrastes de borde automáticamente para garantizar un 100% de legibilidad en pantallas claras.
 
 ---
 
@@ -111,8 +99,8 @@ Aprovechando las características modernas de GitHub, las siguientes métricas s
 Si deseas discutir sobre arquitectura de software, sintonización de bases de datos empresariales o nuevas oportunidades profesionales, no dudes en contactarme:
 
 *   💼 **LinkedIn:** [@ingericalbertorr](https://www.linkedin.com/in/ingericalbertorr/)
-*   📧 **Email:** [juan.perez@gmail.com](mailto:eric.reyesdr@gmail.com)
-*   📱 **Teléfono:** [+52 55-4532-8511](https://wa.me/525554582337)
+*   📧 **Email:** [eric.reyesdr@gmail.com](mailto:eric.reyesdr@gmail.com)
+*   📱 **Teléfono:** [+52 55-5458-2337](https://wa.me/525554582337)
 
 <p align="right">(<a href="#top">Volver arriba</a>)</p>
 
