@@ -1,5 +1,5 @@
 # ¡Hola! Soy Eric Reyes 👋
-## Senior Database Developer & Senior Java Backend Developer
+## Principal Software Developer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ingericalbertorr/" target="_blank">
@@ -11,7 +11,7 @@
 
 ### 🚀 Acerca de mí
 
-Soy un **Ingeniero de Software Senior** con más de 16 años de experiencia especializándome en el diseño, desarrollo y optimización de sistemas backend empresariales de alta disponibilidad. Mi[...]
+Soy un **Principal Software Developer** con más de 16 años de experiencia especializándome en el diseño, desarrollo y optimización de sistemas backend empresariales de alta disponibilidad. Mi[...]
 
 *   **Backend Core:** Diseño de microservicios escalables utilizando **Spring Boot**, garantizando transacciones seguras, arquitecturas distribuidas y APIs altamente eficientes.
 *   **Database Engineering:** Experto en tuning de consultas complejas, modelado de datos de misión crítica, administración avanzada en **Oracle DB** y **PostgreSQL**, y desarrollo ágil con **[...]
@@ -22,27 +22,27 @@ Soy un **Ingeniero de Software Senior** con más de 16 años de experiencia espe
 ### 🛠️ Tech Stack & Skills
 
 #### ☕ Backend & Frameworks
-![](https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![](https://img.shields.io/badge/RestAPI-009688?style=for-the-badge&logo=api&logoColor=white)
+![https://www.oracle.com/latam/java/](https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white)
+![https://spring.io/projects/spring-boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![https://spring.io/](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![https://hibernate.org/](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![https://www.redhat.com/es/topics/api/what-is-a-rest-api](https://img.shields.io/badge/RestAPI-009688?style=for-the-badge&logo=api&logoColor=white)
 
 #### 🗄️ Database Engineering
-![](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![https://www.oracle.com/database/](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![https://www.postgresql.org/](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![https://www.oracle.com/apex/](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
 #### 🌐 Frontend Development
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![https://developer.mozilla.org/es/docs/Web/JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![https://www.typescriptlang.org/](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![https://react.dev/](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 #### ☁️ Cloud & DevOps
-![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Oracle_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![https://aws.amazon.com/](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![https://www.oracle.com/cloud/](https://img.shields.io/badge/Oracle_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![https://www.docker.com/](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![https://git-scm.com/](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -56,7 +56,7 @@ Aprovechando las características modernas de GitHub, las siguientes métricas s
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ereyesMX&show_icons=true&theme=tokyonight&count_private=true">
+    <!--<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ereyesMX&show_icons=true&theme=tokyonight&count_private=true">-->
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ereyesMX&show_icons=true&theme=default&count_private=true">
     <img alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=ereyesMX&show_icons=true&theme=tokyonight">
   </picture>
@@ -64,7 +64,7 @@ Aprovechando las características modernas de GitHub, las siguientes métricas s
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ereyesMX&layout=compact&theme=tokyonight">
+    <!--<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ereyesMX&layout=compact&theme=tokyonight">-->
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ereyesMX&layout=compact&theme=default">
     <img alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ereyesMX&layout=compact&theme=tokyonight">
   </picture>
