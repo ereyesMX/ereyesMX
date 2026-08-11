@@ -11,10 +11,10 @@
 
 ### 🚀 Acerca de mí
 
-Soy un **Ingeniero de Software Senior** con más de 16 años de experiencia especializándome en el diseño, desarrollo y optimización de sistemas backend empresariales de alta disponibilidad. Mi enfoque profesional une dos mundos críticos: la robustez de la arquitectura backend con **Java** y la potencia analítica de la optimización avanzada en **Bases de Datos** relacionales.
+Soy un **Ingeniero de Software Senior** con más de 16 años de experiencia especializándome en el diseño, desarrollo y optimización de sistemas backend empresariales de alta disponibilidad. Mi[...]
 
 *   **Backend Core:** Diseño de microservicios escalables utilizando **Spring Boot**, garantizando transacciones seguras, arquitecturas distribuidas y APIs altamente eficientes.
-*   **Database Engineering:** Experto en tuning de consultas complejas, modelado de datos de misión crítica, administración avanzada en **Oracle DB** y **PostgreSQL**, y desarrollo ágil con **Oracle APEX**.
+*   **Database Engineering:** Experto en tuning de consultas complejas, modelado de datos de misión crítica, administración avanzada en **Oracle DB** y **PostgreSQL**, y desarrollo ágil con **[...]
 *   **Cloud & DevOps:** Migración y despliegue de infraestructuras empresariales aprovechando soluciones nativas de la nube en **AWS** y **OCI**, automatizadas mediante contenedores **Docker**.
 
 ---
@@ -64,9 +64,9 @@ Aprovechando las características modernas de GitHub, las siguientes métricas s
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ingericalbertorr&layout=compact&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ingericalbertorr&layout=compact&theme=default">
-    <img alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingericalbertorr&layout=compact&theme=tokyonight">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ereyesMX&layout=compact&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ereyesMX&layout=compact&theme=default">
+    <img alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ereyesMX&layout=compact&theme=tokyonight">
   </picture>
 </p>
 
@@ -102,4 +102,3 @@ Si deseas discutir sobre arquitectura de software, sintonización de bases de da
 *   📱 **Teléfono:** [+52 55-5458-2337](https://wa.me/525554582337)
 
 <p align="right">(<a href="#top">Volver arriba</a>)</p>
-
