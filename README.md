@@ -1,23 +1,24 @@
-[![ENG](https://img.shields.io/badge/English-ENG-blue)](#english-eng) [![ESP](https://img.shields.io/badge/Español-ESP-red)](#español-spa)
+<input type="checkbox" id="english-tab" class="lang-tab" />
+<input type="checkbox" id="spanish-tab" class="lang-tab" />
+
+<label for="english-tab">[![ENG](https://img.shields.io/badge/English-ENG-blue)](#english-tab)</label>
+<label for="spanish-tab">[![ESP](https://img.shields.io/badge/Español-ESP-red)](#spanish-tab)</label>
 
 ---
 
-<details>
-<summary>English / ENG</summary>
+<div id="english-tab" class="language-section">
 
-### English <a name="english-eng"></a>
-
+### English <a name="english"></a>
 
 ![hello-banner](https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/images/hello-banner.png)
 
 ![Descripción](https://raw.githubusercontent.com/tu-usuario/tu-usuario/main/nombre-archivo.png)
 
-</details>
+</div>
 
-<details>
-<summary>Español / SPA</summary>
+<div id="spanish-tab" class="language-section">
 
-### Español <a name="español-spa"></a>
+### Español <a name="español"></a>
 
 # ¡Hola! Soy Eric Reyes 👋
 ## Principal Software Developer
@@ -130,4 +131,42 @@ Si deseas discutir sobre arquitectura de software, sintonización de bases de da
 *   📧 **Email:** [eric.reyesdr@gmail.com](mailto:eric.reyesdr@gmail.com)
 *   📱 **Teléfono:** [+52 55-5458-2337](https://wa.me/525554582337)
 
-</details>
+</div>
+
+<style>
+.lang-tab {
+  display: none;
+}
+
+.language-section {
+  display: none;
+}
+
+#english-tab:checked ~ #english-tab {
+  display: block;
+}
+
+#spanish-tab:checked ~ #spanish-tab {
+  display: block;
+}
+
+#english-tab:checked ~ .language-section:nth-of-type(1) {
+  display: block;
+}
+
+#spanish-tab:checked ~ .language-section:nth-of-type(2) {
+  display: block;
+}
+
+label {
+  cursor: pointer;
+  padding: 8px 12px;
+  margin: 0 4px;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+}
+
+label:hover {
+  opacity: 0.8;
+}
+</style>
