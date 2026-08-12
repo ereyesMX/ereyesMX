@@ -1,0 +1,7 @@
+# Remove .DS_Store and Thumbs.db from tracking
+.DS_Store
+Thumbs.db
+
+# Ignore idea stuff
+.idea/
+

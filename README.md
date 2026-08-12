@@ -8,7 +8,7 @@
 # ¡Hola! Soy Eric Reyes 👋
 ## Principal Software Developer
 
-![hello-banner](https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/images/hello-banner-spa.png)
+![hello-banner](profile/src/assets/images/main-banner-spa.png)
 
 ---
 
@@ -25,35 +25,40 @@ Soy un profesional con más de 16 años de experiencia especializándome en el d
 ### 🛠️ Tech Stack & Skills
 
 #### ☕ Backend & Frameworks
-![https://www.oracle.com/latam/java/](https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white)
-![https://spring.io/projects/spring-boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![https://spring.io/](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![https://hibernate.org/](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![https://www.redhat.com/es/topics/api/what-is-a-rest-api](https://img.shields.io/badge/RestAPI-009688?style=for-the-badge&logo=api&logoColor=white)
+![Java EE](https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### 🗄️ Database Engineering
-<p align="left">
-  <a href="https://www.oracle.com" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  </a>
-  <a href="https://www.oracle.com/apex/" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="cccccccc" />
-  </a>
-</p>
+![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 #### 🌐 Frontend Development
-![https://developer.mozilla.org/es/docs/Web/JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![https://www.typescriptlang.org/](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![https://react.dev/](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 #### ☁️ Cloud & DevOps
-![https://aws.amazon.com/](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![https://www.oracle.com/cloud/](https://img.shields.io/badge/Oracle_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![https://www.docker.com/](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![https://git-scm.com/](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle OCI](https://img.shields.io/badge/Oracle_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -108,9 +113,8 @@ Aprovechando las características modernas de GitHub, las siguientes métricas s
 
 Si deseas discutir sobre arquitectura de software, sintonización de bases de datos empresariales o nuevas oportunidades profesionales, no dudes en contactarme:
 
-*   💼 **LinkedIn:** [@ingericalbertorr](https://www.linkedin.com/in/ingericalbertorr/)
-*   📧 **Email:** [eric.reyesdr@gmail.com](mailto:eric.reyesdr@gmail.com)
-*   📱 **Teléfono:** [+52 55-5458-2337](https://wa.me/525554582337)
+<a href="https://www.linkedin.com/in/ingericalbertorr/"><img src="profile/src/assets/icons/social-media/linkedin-color-48.png" alt="linkedin-logo"></a>
+<a href="mailto:eric.reyesdr@gmail.com"><img src="profile/src/assets/icons/social-media/gmail-color-48.png" alt="gmail-logo"></a>
 
 </div>
 
@@ -128,7 +132,7 @@ Si deseas discutir sobre arquitectura de software, sintonización de bases de da
 # Hello! I'm Eric Reyes 👋
 ## Principal Software Developer
 
-![hello-banner](https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/images/hello-banner-eng.png)
+![hello-banner](profile/src/assets/images/main-banner-eng.png)
 
 ---
 
@@ -145,35 +149,40 @@ I'm a professional with over 16 years of experience specializing in the design, 
 ### 🛠️ Tech Stack & Skills
 
 #### ☕ Backend & Frameworks
-![https://www.oracle.com/latam/java/](https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white)
-![https://spring.io/projects/spring-boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![https://spring.io/](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![https://hibernate.org/](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![https://www.redhat.com/es/topics/api/what-is-a-rest-api](https://img.shields.io/badge/RestAPI-009688?style=for-the-badge&logo=api&logoColor=white)
+![Java EE](https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### 🗄️ Database Engineering
-<p align="left">
-  <a href="https://www.oracle.com" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  </a>
-  <a href="https://www.oracle.com/apex/" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="cccccccc" />
-  </a>
-</p>
+![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 #### 🌐 Frontend Development
-![https://developer.mozilla.org/es/docs/Web/JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![https://www.typescriptlang.org/](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![https://react.dev/](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 #### ☁️ Cloud & DevOps
-![https://aws.amazon.com/](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![https://www.oracle.com/cloud/](https://img.shields.io/badge/Oracle_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![https://www.docker.com/](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![https://git-scm.com/](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle OCI](https://img.shields.io/badge/Oracle_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -187,13 +196,15 @@ Leveraging modern GitHub features, the following metrics adapt dynamically based
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ereyesMX&show_icons=true&theme=tokyonight&count_private=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ereyesMX&show_icons=true&theme=default&count_private=true">
-    <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=ereyesMX&show_icons=true&theme=tokyonight">
+    <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=ereyesMX&show_icons=true&theme=tokyonight&count_private=true">
   </picture>
 </p>
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ereyesMX&layout=compact&theme=tokyonight">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ereyesMX&layout=compact&theme=default">
     <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ereyesMX&layout=compact&theme=tokyonight">
   </picture>
@@ -226,9 +237,8 @@ Leveraging modern GitHub features, the following metrics adapt dynamically based
 
 If you want to discuss software architecture, enterprise database tuning, or new professional opportunities, feel free to contact me:
 
-*   <a href="https://www.linkedin.com/in/ingericalbertorr/"><img src="https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/icons/social-media/linkedin-50.png" alt="linkedin-logo"></a>
-*   <a href="mailto:eric.reyesdr@gmail.com"><img src="https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/icons/social-media/gmail-logo-50.png" alt="gmail-logo">eric.reyesdr@gmail.com</a>
-*   <a href="https://wa.me/525554582337"><img src="https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/icons/social-media/iphone-14-50.png" alt="iphone-logo"> (+52)55-5458-2337</a>
+<a href="https://www.linkedin.com/in/ingericalbertorr/"><img src="profile/src/assets/icons/social-media/linkedin-color-48.png" alt="linkedin-logo"></a>
+<a href="mailto:eric.reyesdr@gmail.com"><img src="profile/src/assets/icons/social-media/gmail-color-48.png" alt="gmail-logo"></a>
 
 </div>
 
