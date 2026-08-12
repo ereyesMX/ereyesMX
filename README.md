@@ -8,16 +8,16 @@
 # ¡Hola! Soy Eric Reyes 👋
 ## Principal Software Developer
 
-
+![hello-banner](https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/images/hello-banner-spa.png)
 
 ---
 
 ### 🚀 Acerca de mí
 
-Soy un **Profesional** con más de 16 años de experiencia especializándome en el diseño, desarrollo y optimización de sistemas backend empresariales de alta disponibilidad. Mi[...]
+Soy un profesional con más de 16 años de experiencia especializándome en el diseño, desarrollo y optimización de sistemas backend empresariales de alta disponibilidad.
 
 *   **Backend Core:** Diseño de microservicios escalables utilizando **Spring Boot**, garantizando transacciones seguras, arquitecturas distribuidas y APIs altamente eficientes.
-*   **Database Engineering:** Experto en tuning de consultas complejas, modelado de datos de misión crítica, administración avanzada en **Oracle DB** y **PostgreSQL**, y desarrollo ágil con **[...[...]
+*   **Database Engineering:** Experto en tuning de consultas complejas, modelado de datos de misión crítica, administración avanzada en **Oracle DB** y **PostgreSQL**, y desarrollo ágil,
 *   **Cloud & DevOps:** Migración y despliegue de infraestructuras empresariales aprovechando soluciones nativas de la nube en **AWS** y **OCI**, automatizadas mediante contenedores **Docker**.
 
 ---
@@ -67,7 +67,7 @@ Aprovechando las características modernas de GitHub, las siguientes métricas s
 
 <p align="center">
   <picture>
-    <!--<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ereyesMX&show_icons=true&theme=tokyonight&count_private=true">-->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ereyesMX&show_icons=true&theme=tokyonight&count_private=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ereyesMX&show_icons=true&theme=default&count_private=true">
     <img alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=ereyesMX&show_icons=true&theme=tokyonight">
   </picture>
@@ -75,7 +75,7 @@ Aprovechando las características modernas de GitHub, las siguientes métricas s
 
 <p align="center">
   <picture>
-    <!--<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ereyesMX&layout=compact&theme=tokyonight">-->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ereyesMX&layout=compact&theme=tokyonight">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ereyesMX&layout=compact&theme=default">
     <img alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ereyesMX&layout=compact&theme=tokyonight">
   </picture>
@@ -128,13 +128,13 @@ Si deseas discutir sobre arquitectura de software, sintonización de bases de da
 # Hello! I'm Eric Reyes 👋
 ## Principal Software Developer
 
-![hello-banner](https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/images/hello-banner.png)
+![hello-banner](https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/images/hello-banner-eng.png)
 
 ---
 
 ### 🚀 About Me
 
-I'm a **Professional** with over 16 years of experience specializing in the design, development, and optimization of highly available enterprise backend systems.
+I'm a professional with over 16 years of experience specializing in the design, development, and optimization of highly available enterprise backend systems.
 
 *   **Backend Core:** Design of scalable microservices using **Spring Boot**, ensuring secure transactions, distributed architectures, and highly efficient APIs.
 *   **Database Engineering:** Expert in complex query tuning, mission-critical data modeling, advanced administration in **Oracle DB** and **PostgreSQL**, and agile development.
@@ -226,9 +226,9 @@ Leveraging modern GitHub features, the following metrics adapt dynamically based
 
 If you want to discuss software architecture, enterprise database tuning, or new professional opportunities, feel free to contact me:
 
-*   💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ingericalbertorr/)
-*   📧 **Email:** [eric.reyesdr@gmail.com](mailto:eric.reyesdr@gmail.com)
-*   📱 **Phone:** [+52 55-5458-2337](https://wa.me/525554582337)
+*   <a href="https://www.linkedin.com/in/ingericalbertorr/"><img src="https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/icons/social-media/linkedin-50.png" alt="linkedin-logo"></a>
+*   <a href="mailto:eric.reyesdr@gmail.com"><img src="https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/icons/social-media/gmail-logo-50.png" alt="gmail-logo">eric.reyesdr@gmail.com</a>
+*   <a href="https://wa.me/525554582337"><img src="https://github.com/ereyesMX/ereyesMX/blob/profile-setup/profile/src/assets/icons/social-media/iphone-14-50.png" alt="iphone-logo"> (+52)55-5458-2337</a>
 
 </div>
 
